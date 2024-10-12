@@ -1,5 +1,6 @@
 
-- **assets/**: Contains images and other static assets.
+- **assets![Authantication](https://github.com/user-attachments/assets/46cb0a59-923f-4f50-8121-5bf8bb5fc155)
+/**: Contains images and other static assets.
 - **forget-password/**: Contains the HTML and CSS files for the password reset page.
 - **global.css**: Contains global styles used across the application.
 - **login/**: Contains the HTML and CSS files for the login page.
